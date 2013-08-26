@@ -1,0 +1,33 @@
+name: TruBlud
+main: com.noahswitzer.TruBlud
+version: 1.0
+description: pimpin
+author: mindping
+authors: [John and Noah Switzer] 
+database: false
+depend: []
+commands:
+   trublud:
+      description: Reloads plugin!
+      usage: /<command> reload
+   Fanger:
+      description: Fangs!
+      usage: /<command> fanger
+   FangBanger:
+      description: Fang holes!
+      usage: /<command>
+   Shifter:
+      description: Tails!
+      usage: /<command>
+   Police:
+      description: AntiVamp
+      usage: /<command>
+   Fairy:
+      description: Wings!
+      usage: /<command>
+   Hybrid:
+      description: special!
+      usage: /<command>
+permissions:
+   trublud.*:
+     description: Gives access to all trublud commands
